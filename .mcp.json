@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "devoted2uhomecare": {
+      "type": "http",
+      "url": "https://devoted2uhomecare.com/mcp"
+    }
+  }
+}
