@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_profile/>
+        <content/>
+        <content_type>application/json</content_type>
+        <function_name>Get Home Care Info</function_name>
+        <http_method>GET</http_method>
+        <name>Get Home Care Info</name>
+        <oauth2_profile/>
+        <qualified_endpoint>https://www.devoted2uhomecare.com</qualified_endpoint>
+        <rest_message display_value="Devoted2U Home Care">a1b2c3d4e5f60000cd674f8ce1050001</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 00:00:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b2c3d4e5f6780000cd674f8ce1050002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Home Care Info</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_b2c3d4e5f6780000cd674f8ce1050002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 00:00:00</sys_updated_on>
+    </sys_rest_message_fn>
+</record_update>
